@@ -122,10 +122,27 @@ Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan impr
 
 Terdapat penomeran halaman yang dapat dipilih apabila menu yang disediakan ada banyak, dan bisa memilih nomer secara urut maka akan tampil menu yang lainnya makanan & minuman.
 
+![wanda 17](https://github.com/roswanda11/lab7web-php-ci/assets/115516632/845545fc-e367-4772-aab7-954f0dcb89c5)
 
+Lanjut pilih nomer :
 
+![wanda 18](https://github.com/roswanda11/lab7web-php-ci/assets/115516632/73c1e1ce-2cc7-4c64-b58c-b932adc93c28)
 
+### 19. Pencarian halaman menu makanan & minuman
 
+Buka folder dan file app/Controllers/Artikel.php lalu ubah pada function admin_index paginate ubah menjadi 10 yang tadinya 1.
+
+1 --> Memperkecil halaman page
+
+10 --> Memperluas halaman page
+
+Kemudian lakukan pencarian dengan kata kunci harus judul makanan & minuman yang harus di cari, contohnya :
+
+![wanda 19](https://github.com/roswanda11/lab7web-php-ci/assets/115516632/9b0c7ea7-3ab0-4fd5-96a6-4b5d17e188bf)
+
+Lalu hasil ketika dicari halamannya :
+
+![wanda 20](https://github.com/roswanda11/lab7web-php-ci/assets/115516632/f83bbb27-ae62-4ba5-b9a8-ff039c74165a)
 
 
 
